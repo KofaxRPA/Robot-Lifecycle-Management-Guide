@@ -1,5 +1,5 @@
 # Getting Started Guide to Robot Lifecycle Management  
-[Download the Guide here](https://github.com/KofaxRPA/Robot-Lifecycle-Management-Guide/releases)  
+Download the Guide [here](https://github.com/KofaxRPA/Robot-Lifecycle-Management-Guide/releases)  
 This step-by-step guide takes you through the entire process of installing, configuring and use Robot Lifecycle Management (RLM).  
 Use RLM  for Version Control, Security, Deployment.
 * [Version Control](https://en.wikipedia.org/wiki/Version_control)
